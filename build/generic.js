@@ -25,4 +25,5 @@ function gerGenLength(arg) {
     return arg.length;
 }
 console.log(gerGenLength([1, 2, 3]));
+console.log(gerGenLength("hello"));
 //# sourceMappingURL=generic.js.map
